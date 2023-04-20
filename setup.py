@@ -2,7 +2,7 @@ from setuptools import setup, find_packages
 
 setup(
     name='tags-generator',
-    version='0.1.0',
+    version='0.2.0',
     author='nigohiroki',
     author_email='nigohiroki@teit-inc.com',
     description='A library to generate tags list from a text using OpenAI',
