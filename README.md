@@ -31,8 +31,13 @@ text = "Create a step-by-step guide on building a pip library to distribution th
 tags = tg.generate_tags(text)
 
 print(tags)
+```
 
 
 ## Attributes
 - max_tags (integer, default=5): Define the maximum number of tags in the output list.
 - order (string, default='relevance'): Specify the order of tags based on their relevance. Options are 'relevance' or 'random'.
+
+## License
+
+This project is licensed under the MIT License.
